@@ -36,6 +36,7 @@ async function searchImages() {
         imageWrapper.appendChild(imageLink);
 
         searchResults.appendChild(imageWrapper); 
+    });
 
     page++;
 
